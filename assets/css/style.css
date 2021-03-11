@@ -12,21 +12,9 @@ body {
 header {
   /* navigation bar  */
   padding: 20px;
-  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
-    "Lucida Sans", Arial, sans-serif;
+
   background-color: #2a607c;
   color: #ffffff;
-}
-
-.header_logo {
-  /* header logo  */
-  display: inline-block;
-  font-size: 48px;
-}
-
-.seo {
-  /* seo in header logo  */
-  color: #d9dcd6;
 }
 
 header nav {
@@ -36,6 +24,19 @@ header nav {
   float: right;
   font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
   font-size: 20px;
+}
+
+.header_logo {
+  /* header logo  */
+  display: inline-block;
+  font-size: 48px;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+}
+
+.seo {
+  /* seo in header logo  */
+  color: #d9dcd6;
 }
 
 header nav ul {
