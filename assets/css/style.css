@@ -18,13 +18,13 @@ header {
   color: #ffffff;
 }
 
-header h1 {
+.header_logo {
   /* header logo  */
   display: inline-block;
   font-size: 48px;
 }
 
-header h1 .seo {
+.seo {
   /* seo in header logo  */
   color: #d9dcd6;
 }
