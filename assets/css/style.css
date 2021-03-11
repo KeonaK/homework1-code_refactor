@@ -138,20 +138,8 @@ main {
   background-color: #2589bd;
 }
 
-.benefit-lead {
-  /* benefit lead  */
-  margin-bottom: 32px;
-  color: #ffffff;
-}
-
-.benefit-brand {
-  /* benefit brand */
-  margin-bottom: 32px;
-  color: #ffffff;
-}
-
-.benefit-cost {
-  /* benefit cost  */
+.benefit_margin {
+  /* benefit margin  */
   margin-bottom: 32px;
   color: #ffffff;
 }
