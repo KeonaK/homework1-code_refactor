@@ -11,10 +11,8 @@ body {
 
 header {
   /* navigation bar  */
-  padding: 20px;
-
   background-color: #2a607c;
-  color: #ffffff;
+  padding: 20px;
 }
 
 header nav {
@@ -29,6 +27,7 @@ header nav {
 .header_logo {
   /* header logo  */
   display: inline-block;
+  color: #ffffff;
   font-size: 48px;
   font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
     "Lucida Sans", Arial, sans-serif;
@@ -37,11 +36,6 @@ header nav {
 .seo {
   /* seo in header logo  */
   color: #d9dcd6;
-}
-
-header nav ul {
-  /* unordered list in nav */
-  list-style-type: none;
 }
 
 header nav ul li {
@@ -54,6 +48,7 @@ a {
   /* links */
   color: #ffffff;
   text-decoration: none;
+  list-style-type: none;
 }
 
 p {
